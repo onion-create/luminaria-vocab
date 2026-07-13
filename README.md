@@ -11,7 +11,7 @@ A serene floating vocabulary app with an FSRS adaptive memory algorithm and a si
 - 📱 PWA — install as native app, offline-ready
 
 ## Live Demo
-https://onion-create.github.io/luminaria
+https://onion-create.github.io/luminaria-vocab/
 
 ## Tech
 - Single-file HTML (~830KB), zero dependencies
