@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE
+.vscode/
+.idea/
+
+# WorkBuddy local data
+.workbuddy/
+
+# Generated intermediate assets
+generated-images/
+
+# Legacy feature assets (deprecated companion animal feature)
+avatars/
+
+# Node (in case of future tooling)
+node_modules/
+npm-debug.log*
+
+# OS-generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
