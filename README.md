@@ -6,13 +6,13 @@
 
 <p align="center">
   <strong>Vocabulary learning reimagined as an aesthetic experience.</strong><br />
-  <em>26,000+ words · FSRS algorithm · French Dispatch-inspired · Offline PWA</em>
+  <em>34,000+ words · FSRS algorithm · French Dispatch-inspired · Offline PWA</em>
 </p>
 
 <p align="center">
   <a href="https://onion-create.github.io/luminaria-vocab/"><strong>🌐 Live Demo</strong></a> &nbsp;&nbsp;
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-proprietary-red.svg" alt="License" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/words-26,000%2B-blue.svg" alt="Words" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/words-34,000%2B-blue.svg" alt="Words" /></a>
 </p>
 
 ---
@@ -33,7 +33,7 @@ Built solo, end-to-end, using Codex CLI, Claude Code CLI, and WorkBuddy — from
 |----------|---------|
 | 🧠 **Algorithm** | FSRS (Free Spaced Repetition Scheduler) — outperforms Anki's SM-2 in retention efficiency. Adaptive per-learner scheduling. |
 | 🎨 **Visual Identity** | French Dispatch-inspired palette (wine, rose, gold, lavender). 8 distinct CSS motion-design families. Glassmorphism UI. |
-| 📚 **Content** | 26,000+ words across 8 banks: CET-4, CET-6, GRE, TOEFL, IELTS, SAT, Postgraduate (考研), Business English. |
+| 📚 **Content** | 34,000+ words across 8 banks: CET-4, CET-6, GRE, TOEFL, IELTS, SAT, Postgraduate (考研), Business English. |
 | 🌐 **Bilingual** | Full English and Chinese UI. Bilingual word definitions with pronunciation. |
 | 📱 **PWA** | Install to home screen. Works offline — all data stored locally (IndexedDB + JSON schema). No account required. |
 | 🔬 **FSRS Visualization** | Real-time memory-state indicators with customizable color coding. Mastered words fade elegantly. |

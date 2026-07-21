@@ -1,5 +1,5 @@
 // Luminaria PWA Service Worker
-const CACHE = 'luminaria-v1';
+const CACHE = 'luminaria-v2';
 const ASSETS = [
   './',
   './index.html',
